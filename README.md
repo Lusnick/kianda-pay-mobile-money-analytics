@@ -37,7 +37,8 @@ Prioritize agent float replenishment in the highest-risk provinces and the top 1
 
 ## Dashboard Preview
 
-![Dashboard overview](screenshots/dashboard_overview.png)
+![Dashboard overview](![Dashboard overview](screenshots/Screenshot_2026-08-26_123302.png)
+*Network Health & Float Risk Dashboard — key KPIs and province-level risk breakdown*)
 
 *(Add 2–4 more screenshots here: agent risk table, monthly trend, province breakdown)*
 
