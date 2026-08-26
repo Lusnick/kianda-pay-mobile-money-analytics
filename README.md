@@ -28,7 +28,7 @@ Prioritize agent float replenishment in the highest-risk provinces and the top 1
 ## Repository Structure
 
 ```
-data/         - <a href="https://github.com/Lusnick/kianda-pay-mobile-money-analytics/tree/main/data/.gitkeep%20O%20'">
+data/         - <a href="https://github.com/Lusnick/kianda-pay-mobile-money-analytics/tree/main/data/.gitkeep%20O%20">
 powerbi/      Power BI (.pbix) dashboard file
 screenshots/  dashboard views (since .pbix can't be previewed on GitHub)
 ```
