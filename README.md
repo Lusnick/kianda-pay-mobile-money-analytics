@@ -1,4 +1,4 @@
-## Kianda Pay — Mobile Money Analytics
+# Kianda Pay — Mobile Money Analytics
 
 Analysis of a simulated mobile money operator in Angola (18,000 transactions), focused on identifying and quantifying the root cause of transaction failures — and turning that into an actionable business recommendation.
 
@@ -63,4 +63,4 @@ Everything was designed around one central question: *why do transactions fail, 
 
 ## Contact
 
-[Your name] — [LinkedIn] — [Email]
+Isabel Lusakueno — [LinkedIn] — isabelajuntos@gmail.com
