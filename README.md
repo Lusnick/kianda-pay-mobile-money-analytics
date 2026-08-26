@@ -28,9 +28,11 @@ Prioritize agent float replenishment in the highest-risk provinces and the top 1
 ## Repository Structure
 
 ```
-data/        [data](data/)
-powerbi/      Power BI (.pbix) dashboard file
-screenshots/  dashboard views (since .pbix can't be previewed on GitHub)
+## Repository Structure
+
+- [`data/`](data/) — raw and cleaned dataset
+- [`powerbi/`](powerbi/) — Power BI (.pbix) dashboard file
+- [`screenshots/`](screenshots/) — dashboard views (since .pbix can't be previewed on GitHub)
 ```
 
 ## Dashboard Preview
