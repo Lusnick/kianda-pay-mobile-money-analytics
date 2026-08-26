@@ -37,9 +37,10 @@ Prioritize agent float replenishment in the highest-risk provinces and the top 1
 
 ## Dashboard Preview
 
-![Dashboard overview](screenshots/dashboard_overview.png)
+[Dashboard overview](screenshots/dashboard_overview.png)
 
 Network Health & Float Risk Dashboard 
+
 <img width="1433" height="783" alt="Screenshot 2026-08-26 145738" src="https://github.com/user-attachments/assets/37277797-d743-4d28-b70b-45428e1c68cb" />
 
 
