@@ -43,7 +43,11 @@ Network Health & Float Risk Dashboard
 
 <img width="1433" height="783" alt="Screenshot 2026-08-26 145738" src="https://github.com/user-attachments/assets/37277797-d743-4d28-b70b-45428e1c68cb" />
 
+![Dashboard overview](screenshots/dashboard_overview.png)
+*Network Health & Float Risk Dashboard — key KPIs and province-level risk breakdown*
 
+![Agent risk table](screenshots/agent_risk_table.png)
+*Highest-risk agents by float shortfall rate*
 
 
 
