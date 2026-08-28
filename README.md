@@ -67,6 +67,3 @@ I also built a Top N ranking of the highest-risk agents by float shortfall rate,
 
 Everything was designed around one central question: *why do transactions fail, and where should the company intervene first?*
 
-## Contact
-
-Isabel Lusakueno — [LinkedIn] — isabelajuntos@gmail.com
